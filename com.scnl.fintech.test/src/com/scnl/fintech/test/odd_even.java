@@ -7,7 +7,7 @@ public class odd_even {
 		for(int i=2;i<=100;i=i+2)
 		{
 			System.out.println("Even numbers upto 100 is-"+ i);
-			
+			//surendra
 		}
 
 	}
